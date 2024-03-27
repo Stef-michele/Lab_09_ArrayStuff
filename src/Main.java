@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     // static method to calculate the average of an array of int values
-    public static double getAverage(int values[]) {
+    public static double getAverage(int[] values) {
         int sum = 0;
         for (int value : values) {
             sum += value;

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a6b2792-dcd8-4079-bb46-4f2c195d2318" name="Changes" comment="">
+    <list default="true" id="3a6b2792-dcd8-4079-bb46-4f2c195d2318" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/../Lab_08_GetMethodical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_08_GetMethodical/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_08_GetMethodical/src/SafeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_08_GetMethodical/src/SafeInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_09_ArrayStuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_09_ArrayStuff.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,9 +28,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dye81vEXmSyRV3TQd62rffEgVw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +45,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "jbr-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/stefg/IdeaProjects/Lab_08_GetMethodical",
+    "last_opened_file_path": "C:/Users/stefg/IdeaProjects/Lab_09_ArrayStuff",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -84,6 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1710984585321</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1711067077868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711067077868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
